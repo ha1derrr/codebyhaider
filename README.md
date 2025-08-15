@@ -1,6 +1,6 @@
 # Portfolio Terminal - An Interactive Developer Portfolio
 
-![Portfolio Screenshot](https-i-imgur-com-your-screenshot-url-png) Welcome to my personal portfolio, redesigned from the ground up to be more than just a resume. This project is an immersive, interactive "terminal" experience that showcases my skills and projects in a creative, developer-focused environment.
+![Portfolio Screenshot](./.github/assets/portfolio-preview.png) Welcome to my personal portfolio, redesigned from the ground up to be more than just a resume. This project is an immersive, interactive "terminal" experience that showcases my skills and projects in a creative, developer-focused environment.
 
 **🔗 Live Demo:** [**https://codebyhaider.com**](https://codebyhaider.com)
 
@@ -61,12 +61,6 @@ Make sure you have Node.js and npm installed on your machine.
     npm run dev
     ```
 4.  Open [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal) to view it in the browser.
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
